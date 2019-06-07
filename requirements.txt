@@ -1,0 +1,9 @@
+flask
+underthesea
+Cython
+joblib
+future
+scipy
+numpy
+scikit-learn==0.19.2
+fasttext
